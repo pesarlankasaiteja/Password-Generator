@@ -1,4 +1,4 @@
-<h1>Password Generator<h1>
+<h1>Password Generator</h1>
 Welcome to the PyPassword Generator! This project generates a strong password for you, composed of random letters, numbers, and symbols based on user input.
 
 <h3>Features</h3>
